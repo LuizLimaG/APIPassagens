@@ -1,8 +1,30 @@
 [
     {
         "companyName": "LaTAM",
-        "datas": ["15/09","16/09","17/09"],
-        "horarios": ["10:00","11:00","12:00"],
-        "escala": "sim"
+        "stopover": [
+            {
+                "dates": [
+                    "15/09",
+                    "16/09",
+                    "17/09"
+                ],
+                "horary": [
+                    "10:00",
+                    "11:00",
+                    "12:00"
+                ],
+                "duration": [
+                    "1H20",
+                    "1H40",
+                    "1H30"
+                ],
+                "cities": [
+                    "São Paulo",
+                    "Rio de Janeiro",
+                    "Salvador"
+                ]
+            }
+        ]
+
     }
 ]
