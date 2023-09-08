@@ -28,7 +28,48 @@
         "types": [
             "Econômica",
             "Primeira Classe"
+        ],
+        "packs": [
+            {
+                "light": [
+                    "Bolsa ou mochila pequena",
+                    "Bagagem de mão 10 kg",
+                    "Remarcação com taxa",
+                    "Solicitação de UPG com trechos"
+                ],
+                "pro": [
+                    "Bolsa ou mochila pequena",
+                    "Bagagem de mão 10 kg",
+                    "1 bagagem despachada 23 kg",
+                    "Remarcação com taxa",
+                    "Seleção de assento",
+                    "40% de reembolso",
+                    "Solicitação de UPG com trechos"
+                ],
+                "top": [
+                    "Bolsa ou mochila pequena",
+                    "Bagagem de mão 10 kg",
+                    "1 bagagem despachada 23 kg",
+                    "Remarcação sem taxa",
+                    "Assento LATAM+",
+                    "Reembolso total",
+                    "Solicitação de UPG com trechos"
+                ],
+                "plus": [
+                    "Bolsa ou mochila pequena",
+                    "Bagagem de mão 16 kg",
+                    "1 bagagem despachada 23 kg",
+                    "Remarcação com taxa",
+                    "Assento do meio bloqueado",
+                    "40% de reembolso"
+                ]
+            }
+        ],
+        "acronyms": [
+            {
+                "going": [],
+                "back": []
+            }
         ]
-
     }
 ]
