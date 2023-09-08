@@ -67,8 +67,18 @@
         ],
         "acronyms": [
             {
-                "going": [],
-                "back": []
+                "going": [
+                    "CNF",
+                    "CGH",
+                    "GRU",
+                    "SSA"
+                ],
+                "back": [
+                    "SSA",
+                    "GRU",
+                    "CGH",
+                    "CNF"
+                ]
             }
         ]
     }
