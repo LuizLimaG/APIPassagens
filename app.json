@@ -1,9 +1,327 @@
 [
     {
-        "companyName": "LaTAM",
-        "contact": "0800 505 2022",
-        "stopover": [
+        "airplane": [
             {
+                "companyName": "LaTAM",
+                "contact": "0800 505 2022",
+                "stopover": [
+                    {
+                        "dates": [
+                            "15/09",
+                            "16/09",
+                            "17/09"
+                        ],
+                        "horary": [
+                            "10:00",
+                            "11:00",
+                            "12:00"
+                        ],
+                        "duration": [
+                            "1H20",
+                            "1H40",
+                            "1H30"
+                        ],
+                        "cities": [
+                            "São Paulo",
+                            "Rio de Janeiro",
+                            "Salvador",
+                            "Belo Horizonte"
+                        ]
+                    }
+                ],
+                "types": [
+                    "Econômica",
+                    "Primeira Classe"
+                ],
+                "packs": [
+                    {
+                        "light": [
+                            "Bolsa ou mochila pequena",
+                            "Bagagem de mão 10 kg",
+                            "Remarcação com taxa",
+                            "Solicitação de UPG com trechos"
+                        ],
+                        "pro": [
+                            "Bolsa ou mochila pequena",
+                            "Bagagem de mão 10 kg",
+                            "1 bagagem despachada 23 kg",
+                            "Remarcação com taxa",
+                            "Seleção de assento",
+                            "40% de reembolso",
+                            "Solicitação de UPG com trechos"
+                        ],
+                        "top": [
+                            "Bolsa ou mochila pequena",
+                            "Bagagem de mão 10 kg",
+                            "1 bagagem despachada 23 kg",
+                            "Remarcação sem taxa",
+                            "Assento LATAM+",
+                            "Reembolso total",
+                            "Solicitação de UPG com trechos"
+                        ],
+                        "plus": [
+                            "Bolsa ou mochila pequena",
+                            "Bagagem de mão 16 kg",
+                            "1 bagagem despachada 23 kg",
+                            "Remarcação com taxa",
+                            "Assento do meio bloqueado",
+                            "40% de reembolso"
+                        ]
+                    }
+                ],
+                "acronyms": [
+                    {
+                        "going": [
+                            "CNF",
+                            "CGH",
+                            "GRU",
+                            "SSA"
+                        ],
+                        "back": [
+                            "SSA",
+                            "GRU",
+                            "CGH",
+                            "CNF"
+                        ]
+                    }
+                ],
+                "price": [
+                    {
+                        "economic": [
+                            {
+                                "light": "R$ 599,99",
+                                "pro": "699,99",
+                                "top": "799,99",
+                                "plus": "899,99"
+                            }
+                        ],
+                        "firstClass": [
+                            {
+                                "light": "799,99",
+                                "pro": "899,99",
+                                "top": "999,99",
+                                "plus": "1299,99"
+                            }
+                        ],
+                        "info": "Crianças com menos de 8 anos e idosos com mais de 60 anos não pagam passagem"
+                    }
+                ],
+                "seats": [
+                    {
+                        "confort": [
+                            "01",
+                            "02",
+                            "03",
+                            "04",
+                            "05",
+                            "06",
+                            "07",
+                            "08",
+                            "09",
+                            "10",
+                            "11",
+                            "12",
+                            "13",
+                            "14",
+                            "15",
+                            "16",
+                            "17",
+                            "18",
+                            "19",
+                            "20",
+                            "21",
+                            "22",
+                            "23",
+                            "24",
+                            "25",
+                            "26",
+                            "27",
+                            "28",
+                            "29",
+                            "30",
+                            "31"
+                        ],
+                        "commom": [
+                            "32",
+                            "33",
+                            "34",
+                            "35",
+                            "36",
+                            "37",
+                            "38",
+                            "39",
+                            "40",
+                            "41",
+                            "42",
+                            "43",
+                            "44",
+                            "45",
+                            "46",
+                            "47",
+                            "48",
+                            "49",
+                            "50",
+                            "51",
+                            "52",
+                            "53",
+                            "54",
+                            "55",
+                            "56",
+                            "57",
+                            "58",
+                            "59",
+                            "60",
+                            "61",
+                            "62"
+                        ]
+                    }
+                ],
+                "luggage": [
+                    {
+                        "one": "Preço Normal da Passagem",
+                        "two": "Mais 10% (valor da passagem)",
+                        "three": "Mais 20% (valor da passagem)",
+                        "four": "Mais 30% (valor da passagem)"
+                    }
+                ]
+            },
+            {
+                "companyName": "GOL",
+                "contact": "0800 007 2007",
+                "stopover": [
+                    {
+                        "dates": [
+                            "15/09",
+                            "16/09",
+                            "17/09"
+                        ],
+                        "horary": [
+                            "10:00",
+                            "11:00",
+                            "12:00"
+                        ],
+                        "duration": [
+                            "1H20",
+                            "1H40",
+                            "1H30"
+                        ],
+                        "cities": [
+                            "São Paulo",
+                            "Rio de Janeiro",
+                            "Salvador",
+                            "Belo Horizonte"
+                        ]
+                    }
+                ],
+                "types": [
+                    "Econômica",
+                    "Primeira Classe"
+                ],
+                "acronyms": [
+                    {
+                        "going": [
+                            "CNF",
+                            "CGH",
+                            "GRU",
+                            "SSA"
+                        ],
+                        "back": [
+                            "SSA",
+                            "GRU",
+                            "CGH",
+                            "CNF"
+                        ]
+                    }
+                ],
+                "price": [
+                    {
+                        "economic": "R$ 699,99",
+                        "firstClass": "R$ 1299,99",
+                        "info": "Crianças com menos de 8 anos e idosos com mais de 60 anos não pagam passagem"
+                    }
+                ],
+                "seats": [
+                    {
+                        "confort": [
+                            "01",
+                            "02",
+                            "03",
+                            "04",
+                            "05",
+                            "06",
+                            "07",
+                            "08",
+                            "09",
+                            "10",
+                            "11",
+                            "12",
+                            "13",
+                            "14",
+                            "15",
+                            "16",
+                            "17",
+                            "18",
+                            "19",
+                            "20",
+                            "21",
+                            "22",
+                            "23",
+                            "24",
+                            "25",
+                            "26",
+                            "27",
+                            "28",
+                            "29",
+                            "30",
+                            "31"
+                        ],
+                        "commom": [
+                            "32",
+                            "33",
+                            "34",
+                            "35",
+                            "36",
+                            "37",
+                            "38",
+                            "39",
+                            "40",
+                            "41",
+                            "42",
+                            "43",
+                            "44",
+                            "45",
+                            "46",
+                            "47",
+                            "48",
+                            "49",
+                            "50",
+                            "51",
+                            "52",
+                            "53",
+                            "54",
+                            "55",
+                            "56",
+                            "57",
+                            "58",
+                            "59",
+                            "60",
+                            "61",
+                            "62"
+                        ]
+                    }
+                ],
+                "luggage": [
+                    {
+                        "one": "Preço Normal da Passagem",
+                        "two": "Mais 10% (valor da passagem)",
+                        "three": "Mais 20% (valor da passagem)",
+                        "four": "Mais 30% (valor da passagem)"
+                    }
+                ]
+            },
+            {
+                "companyName": "LaTAM",
+                "contact": "0800 505 2022",
                 "dates": [
                     "15/09",
                     "16/09",
@@ -24,170 +342,166 @@
                     "Rio de Janeiro",
                     "Salvador",
                     "Belo Horizonte"
-                ]
-            }
-        ],
-        "types": [
-            "Econômica",
-            "Primeira Classe"
-        ],
-        "packs": [
-            {
-                "light": [
-                    "Bolsa ou mochila pequena",
-                    "Bagagem de mão 10 kg",
-                    "Remarcação com taxa",
-                    "Solicitação de UPG com trechos"
                 ],
-                "pro": [
-                    "Bolsa ou mochila pequena",
-                    "Bagagem de mão 10 kg",
-                    "1 bagagem despachada 23 kg",
-                    "Remarcação com taxa",
-                    "Seleção de assento",
-                    "40% de reembolso",
-                    "Solicitação de UPG com trechos"
+                "types": [
+                    "Econômica",
+                    "Primeira Classe"
                 ],
-                "top": [
-                    "Bolsa ou mochila pequena",
-                    "Bagagem de mão 10 kg",
-                    "1 bagagem despachada 23 kg",
-                    "Remarcação sem taxa",
-                    "Assento LATAM+",
-                    "Reembolso total",
-                    "Solicitação de UPG com trechos"
-                ],
-                "plus": [
-                    "Bolsa ou mochila pequena",
-                    "Bagagem de mão 16 kg",
-                    "1 bagagem despachada 23 kg",
-                    "Remarcação com taxa",
-                    "Assento do meio bloqueado",
-                    "40% de reembolso"
-                ]
-            }
-        ],
-        "acronyms": [
-            {
-                "going": [
-                    "CNF",
-                    "CGH",
-                    "GRU",
-                    "SSA"
-                ],
-                "back": [
-                    "SSA",
-                    "GRU",
-                    "CGH",
-                    "CNF"
-                ]
-            }
-        ],
-        "price": [
-            {
-                "economic": [
+                "packs": [
                     {
-                        "light": "R$ 599,99",
-                        "pro": "699,99",
-                        "top": "799,99",
-                        "plus": "899,99"
+                        "light": [
+                            "Bolsa ou mochila pequena",
+                            "Bagagem de mão 10 kg",
+                            "Remarcação com taxa",
+                            "Solicitação de UPG com trechos"
+                        ],
+                        "pro": [
+                            "Bolsa ou mochila pequena",
+                            "Bagagem de mão 10 kg",
+                            "1 bagagem despachada 23 kg",
+                            "Remarcação com taxa",
+                            "Seleção de assento",
+                            "40% de reembolso",
+                            "Solicitação de UPG com trechos"
+                        ],
+                        "top": [
+                            "Bolsa ou mochila pequena",
+                            "Bagagem de mão 10 kg",
+                            "1 bagagem despachada 23 kg",
+                            "Remarcação sem taxa",
+                            "Assento LATAM+",
+                            "Reembolso total",
+                            "Solicitação de UPG com trechos"
+                        ],
+                        "plus": [
+                            "Bolsa ou mochila pequena",
+                            "Bagagem de mão 16 kg",
+                            "1 bagagem despachada 23 kg",
+                            "Remarcação com taxa",
+                            "Assento do meio bloqueado",
+                            "40% de reembolso"
+                        ]
                     }
                 ],
-                "firstClass": [
+                "acronyms": [
                     {
-                        "light": "799,99",
-                        "pro": "899,99",
-                        "top": "999,99",
-                        "plus": "1299,99"
+                        "going": [
+                            "CNF",
+                            "CGH",
+                            "GRU",
+                            "SSA"
+                        ],
+                        "back": [
+                            "SSA",
+                            "GRU",
+                            "CGH",
+                            "CNF"
+                        ]
                     }
                 ],
-                "info": "Crianças com menos de 8 anos e idosos com mais de 60 anos não pagam passagem"
-            }
-        ],
-        "seats": [
-            {
-                "confort": [
-                    "01",
-                    "02",
-                    "03",
-                    "04",
-                    "05",
-                    "06",
-                    "07",
-                    "08",
-                    "09",
-                    "10",
-                    "11",
-                    "12",
-                    "13",
-                    "14",
-                    "15",
-                    "16",
-                    "17",
-                    "18",
-                    "19",
-                    "20",
-                    "21",
-                    "22",
-                    "23",
-                    "24",
-                    "25",
-                    "26",
-                    "27",
-                    "28",
-                    "29",
-                    "30",
-                    "31"
+                "price": [
+                    {
+                        "economic": [
+                            {
+                                "light": "R$ 599,99",
+                                "pro": "699,99",
+                                "top": "799,99",
+                                "plus": "899,99"
+                            }
+                        ],
+                        "firstClass": [
+                            {
+                                "light": "799,99",
+                                "pro": "899,99",
+                                "top": "999,99",
+                                "plus": "1299,99"
+                            }
+                        ],
+                        "info": "Crianças com menos de 8 anos e idosos com mais de 60 anos não pagam passagem"
+                    }
                 ],
-                "commom": [
-                    "32",
-                    "33",
-                    "34",
-                    "35",
-                    "36",
-                    "37",
-                    "38",
-                    "39",
-                    "40",
-                    "41",
-                    "42",
-                    "43",
-                    "44",
-                    "45",
-                    "46",
-                    "47",
-                    "48",
-                    "49",
-                    "50",
-                    "51",
-                    "52",
-                    "53",
-                    "54",
-                    "55",
-                    "56",
-                    "57",
-                    "58",
-                    "59",
-                    "60",
-                    "61",
-                    "62"
+                "seats": [
+                    {
+                        "confort": [
+                            "01",
+                            "02",
+                            "03",
+                            "04",
+                            "05",
+                            "06",
+                            "07",
+                            "08",
+                            "09",
+                            "10",
+                            "11",
+                            "12",
+                            "13",
+                            "14",
+                            "15",
+                            "16",
+                            "17",
+                            "18",
+                            "19",
+                            "20",
+                            "21",
+                            "22",
+                            "23",
+                            "24",
+                            "25",
+                            "26",
+                            "27",
+                            "28",
+                            "29",
+                            "30",
+                            "31"
+                        ],
+                        "commom": [
+                            "32",
+                            "33",
+                            "34",
+                            "35",
+                            "36",
+                            "37",
+                            "38",
+                            "39",
+                            "40",
+                            "41",
+                            "42",
+                            "43",
+                            "44",
+                            "45",
+                            "46",
+                            "47",
+                            "48",
+                            "49",
+                            "50",
+                            "51",
+                            "52",
+                            "53",
+                            "54",
+                            "55",
+                            "56",
+                            "57",
+                            "58",
+                            "59",
+                            "60",
+                            "61",
+                            "62"
+                        ]
+                    }
+                ],
+                "luggage": [
+                    {
+                        "one": "Preço Normal da Passagem",
+                        "two": "Mais 10% (valor da passagem)",
+                        "three": "Mais 20% (valor da passagem)",
+                        "four": "Mais 30% (valor da passagem)"
+                    }
                 ]
-            }
-        ],
-        "luggage": [
+            },
             {
-                "one": "Preço Normal da Passagem",
-                "two": "Mais 10% (valor da passagem)",
-                "three": "Mais 20% (valor da passagem)",
-                "four": "Mais 30% (valor da passagem)"
-            }
-        ]
-    },
-    {
-        "companyName": "GOL",
-        "contact": "0800 007 2007",
-        "stopover": [
-            {
+                "companyName": "GOL",
+                "contact": "0800 007 2007",
                 "dates": [
                     "15/09",
                     "16/09",
@@ -208,422 +522,117 @@
                     "Rio de Janeiro",
                     "Salvador",
                     "Belo Horizonte"
-                ]
-            }
-        ],
-        "types": [
-            "Econômica",
-            "Primeira Classe"
-        ],
-        "acronyms": [
-            {
-                "going": [
-                    "CNF",
-                    "CGH",
-                    "GRU",
-                    "SSA"
                 ],
-                "back": [
-                    "SSA",
-                    "GRU",
-                    "CGH",
-                    "CNF"
-                ]
-            }
-        ],
-        "price": [
-            {
-                "economic": "R$ 699,99",
-                "firstClass": "R$ 1299,99",
-                "info": "Crianças com menos de 8 anos e idosos com mais de 60 anos não pagam passagem"
-            }
-        ],
-        "seats": [
-            {
-                "confort": [
-                    "01",
-                    "02",
-                    "03",
-                    "04",
-                    "05",
-                    "06",
-                    "07",
-                    "08",
-                    "09",
-                    "10",
-                    "11",
-                    "12",
-                    "13",
-                    "14",
-                    "15",
-                    "16",
-                    "17",
-                    "18",
-                    "19",
-                    "20",
-                    "21",
-                    "22",
-                    "23",
-                    "24",
-                    "25",
-                    "26",
-                    "27",
-                    "28",
-                    "29",
-                    "30",
-                    "31"
+                "types": [
+                    "Econômica",
+                    "Primeira Classe"
                 ],
-                "commom": [
-                    "32",
-                    "33",
-                    "34",
-                    "35",
-                    "36",
-                    "37",
-                    "38",
-                    "39",
-                    "40",
-                    "41",
-                    "42",
-                    "43",
-                    "44",
-                    "45",
-                    "46",
-                    "47",
-                    "48",
-                    "49",
-                    "50",
-                    "51",
-                    "52",
-                    "53",
-                    "54",
-                    "55",
-                    "56",
-                    "57",
-                    "58",
-                    "59",
-                    "60",
-                    "61",
-                    "62"
-                ]
-            }
-        ],
-        "luggage": [
-            {
-                "one": "Preço Normal da Passagem",
-                "two": "Mais 10% (valor da passagem)",
-                "three": "Mais 20% (valor da passagem)",
-                "four": "Mais 30% (valor da passagem)"
-            }
-        ]
-    },
-    {
-        "companyName": "LaTAM",
-        "contact": "0800 505 2022",
-        "dates": [
-            "15/09",
-            "16/09",
-            "17/09"
-        ],
-        "horary": [
-            "10:00",
-            "11:00",
-            "12:00"
-        ],
-        "duration": [
-            "1H20",
-            "1H40",
-            "1H30"
-        ],
-        "cities": [
-            "São Paulo",
-            "Rio de Janeiro",
-            "Salvador",
-            "Belo Horizonte"
-        ],
-        "types": [
-            "Econômica",
-            "Primeira Classe"
-        ],
-        "packs": [
-            {
-                "light": [
-                    "Bolsa ou mochila pequena",
-                    "Bagagem de mão 10 kg",
-                    "Remarcação com taxa",
-                    "Solicitação de UPG com trechos"
-                ],
-                "pro": [
-                    "Bolsa ou mochila pequena",
-                    "Bagagem de mão 10 kg",
-                    "1 bagagem despachada 23 kg",
-                    "Remarcação com taxa",
-                    "Seleção de assento",
-                    "40% de reembolso",
-                    "Solicitação de UPG com trechos"
-                ],
-                "top": [
-                    "Bolsa ou mochila pequena",
-                    "Bagagem de mão 10 kg",
-                    "1 bagagem despachada 23 kg",
-                    "Remarcação sem taxa",
-                    "Assento LATAM+",
-                    "Reembolso total",
-                    "Solicitação de UPG com trechos"
-                ],
-                "plus": [
-                    "Bolsa ou mochila pequena",
-                    "Bagagem de mão 16 kg",
-                    "1 bagagem despachada 23 kg",
-                    "Remarcação com taxa",
-                    "Assento do meio bloqueado",
-                    "40% de reembolso"
-                ]
-            }
-        ],
-        "acronyms": [
-            {
-                "going": [
-                    "CNF",
-                    "CGH",
-                    "GRU",
-                    "SSA"
-                ],
-                "back": [
-                    "SSA",
-                    "GRU",
-                    "CGH",
-                    "CNF"
-                ]
-            }
-        ],
-        "price": [
-            {
-                "economic": [
+                "acronyms": [
                     {
-                        "light": "R$ 599,99",
-                        "pro": "699,99",
-                        "top": "799,99",
-                        "plus": "899,99"
+                        "going": [
+                            "CNF",
+                            "CGH",
+                            "GRU",
+                            "SSA"
+                        ],
+                        "back": [
+                            "SSA",
+                            "GRU",
+                            "CGH",
+                            "CNF"
+                        ]
                     }
                 ],
-                "firstClass": [
+                "price": [
                     {
-                        "light": "799,99",
-                        "pro": "899,99",
-                        "top": "999,99",
-                        "plus": "1299,99"
+                        "economic": "R$ 699,99",
+                        "firstClass": "R$ 1299,99",
+                        "info": "Crianças com menos de 8 anos e idosos com mais de 60 anos não pagam passagem"
                     }
                 ],
-                "info": "Crianças com menos de 8 anos e idosos com mais de 60 anos não pagam passagem"
-            }
-        ],
-        "seats": [
-            {
-                "confort": [
-                    "01",
-                    "02",
-                    "03",
-                    "04",
-                    "05",
-                    "06",
-                    "07",
-                    "08",
-                    "09",
-                    "10",
-                    "11",
-                    "12",
-                    "13",
-                    "14",
-                    "15",
-                    "16",
-                    "17",
-                    "18",
-                    "19",
-                    "20",
-                    "21",
-                    "22",
-                    "23",
-                    "24",
-                    "25",
-                    "26",
-                    "27",
-                    "28",
-                    "29",
-                    "30",
-                    "31"
+                "seats": [
+                    {
+                        "confort": [
+                            "01",
+                            "02",
+                            "03",
+                            "04",
+                            "05",
+                            "06",
+                            "07",
+                            "08",
+                            "09",
+                            "10",
+                            "11",
+                            "12",
+                            "13",
+                            "14",
+                            "15",
+                            "16",
+                            "17",
+                            "18",
+                            "19",
+                            "20",
+                            "21",
+                            "22",
+                            "23",
+                            "24",
+                            "25",
+                            "26",
+                            "27",
+                            "28",
+                            "29",
+                            "30",
+                            "31"
+                        ],
+                        "commom": [
+                            "32",
+                            "33",
+                            "34",
+                            "35",
+                            "36",
+                            "37",
+                            "38",
+                            "39",
+                            "40",
+                            "41",
+                            "42",
+                            "43",
+                            "44",
+                            "45",
+                            "46",
+                            "47",
+                            "48",
+                            "49",
+                            "50",
+                            "51",
+                            "52",
+                            "53",
+                            "54",
+                            "55",
+                            "56",
+                            "57",
+                            "58",
+                            "59",
+                            "60",
+                            "61",
+                            "62"
+                        ]
+                    }
                 ],
-                "commom": [
-                    "32",
-                    "33",
-                    "34",
-                    "35",
-                    "36",
-                    "37",
-                    "38",
-                    "39",
-                    "40",
-                    "41",
-                    "42",
-                    "43",
-                    "44",
-                    "45",
-                    "46",
-                    "47",
-                    "48",
-                    "49",
-                    "50",
-                    "51",
-                    "52",
-                    "53",
-                    "54",
-                    "55",
-                    "56",
-                    "57",
-                    "58",
-                    "59",
-                    "60",
-                    "61",
-                    "62"
+                "luggage": [
+                    {
+                        "one": "Preço Normal da Passagem",
+                        "two": "Mais 10% (valor da passagem)",
+                        "three": "Mais 20% (valor da passagem)",
+                        "four": "Mais 30% (valor da passagem)"
+                    }
                 ]
             }
         ],
-        "luggage": [
+        "bus": [
             {
-                "one": "Preço Normal da Passagem",
-                "two": "Mais 10% (valor da passagem)",
-                "three": "Mais 20% (valor da passagem)",
-                "four": "Mais 30% (valor da passagem)"
-            }
-        ]
-    },
-    {
-        "companyName": "GOL",
-        "contact": "0800 007 2007",
-        "dates": [
-            "15/09",
-            "16/09",
-            "17/09"
-        ],
-        "horary": [
-            "10:00",
-            "11:00",
-            "12:00"
-        ],
-        "duration": [
-            "1H20",
-            "1H40",
-            "1H30"
-        ],
-        "cities": [
-            "São Paulo",
-            "Rio de Janeiro",
-            "Salvador",
-            "Belo Horizonte"
-        ],
-        "types": [
-            "Econômica",
-            "Primeira Classe"
-        ],
-        "acronyms": [
-            {
-                "going": [
-                    "CNF",
-                    "CGH",
-                    "GRU",
-                    "SSA"
-                ],
-                "back": [
-                    "SSA",
-                    "GRU",
-                    "CGH",
-                    "CNF"
-                ]
-            }
-        ],
-        "price": [
-            {
-                "economic": "R$ 699,99",
-                "firstClass": "R$ 1299,99",
-                "info": "Crianças com menos de 8 anos e idosos com mais de 60 anos não pagam passagem"
-            }
-        ],
-        "seats": [
-            {
-                "confort": [
-                    "01",
-                    "02",
-                    "03",
-                    "04",
-                    "05",
-                    "06",
-                    "07",
-                    "08",
-                    "09",
-                    "10",
-                    "11",
-                    "12",
-                    "13",
-                    "14",
-                    "15",
-                    "16",
-                    "17",
-                    "18",
-                    "19",
-                    "20",
-                    "21",
-                    "22",
-                    "23",
-                    "24",
-                    "25",
-                    "26",
-                    "27",
-                    "28",
-                    "29",
-                    "30",
-                    "31"
-                ],
-                "commom": [
-                    "32",
-                    "33",
-                    "34",
-                    "35",
-                    "36",
-                    "37",
-                    "38",
-                    "39",
-                    "40",
-                    "41",
-                    "42",
-                    "43",
-                    "44",
-                    "45",
-                    "46",
-                    "47",
-                    "48",
-                    "49",
-                    "50",
-                    "51",
-                    "52",
-                    "53",
-                    "54",
-                    "55",
-                    "56",
-                    "57",
-                    "58",
-                    "59",
-                    "60",
-                    "61",
-                    "62"
-                ]
-            }
-        ],
-        "luggage": [
-            {
-                "one": "Preço Normal da Passagem",
-                "two": "Mais 10% (valor da passagem)",
-                "three": "Mais 20% (valor da passagem)",
-                "four": "Mais 30% (valor da passagem)"
+                
             }
         ]
     }
