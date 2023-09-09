@@ -70,16 +70,16 @@
         "acronyms": [
             {
                 "going": [
-                    "CNF", //confins
-                    "CGH", //congonhas
-                    "GRU", //guarulhos
-                    "SSA" //salvador
+                    "CNF", 
+                    "CGH", 
+                    "GRU", 
+                    "SSA" 
                 ],
                 "back": [
-                    "SSA", //salvador
-                    "GRU", //guarulhos
-                    "CGH", //congonhas
-                    "CNF" //confins
+                    "SSA", 
+                    "GRU", 
+                    "CGH", 
+                    "CNF" 
                 ]
             }
         ],
