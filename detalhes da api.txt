@@ -1,10 +1,10 @@
-Horario dos voos / 
-Destino /
-Com ou sem escala /\
-Duração /
-Preço /
-Tipo de passagem /
-Pacotes para passagem (informações do pacote) /
-Voo ida e voo volta (mesma coisa para ambos) /
+Horario dos voos 
+Destino 
+Com ou sem escala 
+Duração 
+Preço 
+Tipo de passagem 
+Pacotes para passagem (informações do pacote) 
+Voo ida e voo volta (mesma coisa para ambos) 
 Assentos (informações dos assentos ) // alteração no preço da passagem
 Quantidade de bagagens // alteração no preço da passagem
