@@ -6,10 +6,15 @@
                 "contact": "0800 505 2022",
                 "stopover": [
                     {
-                        "dates": [
+                        "goingDates": [
                             "15/09",
                             "16/09",
                             "17/09"
+                        ],
+                        "backDates": [
+                            "25/09",
+                            "26/09",
+                            "27/09"
                         ],
                         "horary": [
                             "10:00",
@@ -190,10 +195,15 @@
                 "contact": "0800 007 2007",
                 "stopover": [
                     {
-                        "dates": [
+                        "goingDates": [
                             "15/09",
                             "16/09",
                             "17/09"
+                        ],
+                        "backDates": [
+                            "25/09",
+                            "26/09",
+                            "27/09"
                         ],
                         "horary": [
                             "10:00",
@@ -322,10 +332,15 @@
             {
                 "companyName": "LaTAM",
                 "contact": "0800 505 2022",
-                "dates": [
+                "goingDates": [
                     "15/09",
                     "16/09",
                     "17/09"
+                ],
+                "backDates": [
+                    "25/09",
+                    "26/09",
+                    "27/09"
                 ],
                 "horary": [
                     "10:00",
@@ -502,10 +517,15 @@
             {
                 "companyName": "GOL",
                 "contact": "0800 007 2007",
-                "dates": [
+                "goingDates": [
                     "15/09",
                     "16/09",
                     "17/09"
+                ],
+                "backDates": [
+                    "25/09",
+                    "26/09",
+                    "27/09"
                 ],
                 "horary": [
                     "10:00",
@@ -632,7 +652,39 @@
         ],
         "bus": [
             {
-                
+                "companyName": "Buser",
+                "contact": "0800 133 7978",
+                "goingDates": [
+                    "15/09",
+                    "16/09",
+                    "17/09"
+                ],
+                "backDates": [
+                    "25/09",
+                    "26/09",
+                    "27/09"
+                ],
+                "horary": [
+                    "10:00",
+                    "14:00",
+                    "18:00"
+                ],
+                "cities": [
+                    "Belo Horizonte",
+                    "Rio de Janeiro",
+                    "Salvador",
+                    "São Paulo"
+                ],
+                "infoShipmentDisembarkation": [
+                    {
+                        "shipment": [
+
+                        ],
+                        "disembarkation":[
+                            
+                        ]
+                    }
+                ]
             }
         ]
     }
