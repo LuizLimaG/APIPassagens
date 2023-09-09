@@ -1,6 +1,7 @@
 [
     {
         "companyName": "LaTAM",
+        "contact": "0800 505 2022",
         "stopover": [
             {
                 "dates": [
@@ -21,7 +22,8 @@
                 "cities": [
                     "São Paulo",
                     "Rio de Janeiro",
-                    "Salvador"
+                    "Salvador",
+                    "Belo Horizonte"
                 ]
             }
         ],
@@ -68,16 +70,36 @@
         "acronyms": [
             {
                 "going": [
-                    "CNF",
-                    "CGH",
-                    "GRU",
-                    "SSA"
+                    "CNF", //confins
+                    "CGH", //congonhas
+                    "GRU", //guarulhos
+                    "SSA" //salvador
                 ],
                 "back": [
-                    "SSA",
-                    "GRU",
-                    "CGH",
-                    "CNF"
+                    "SSA", //salvador
+                    "GRU", //guarulhos
+                    "CGH", //congonhas
+                    "CNF" //confins
+                ]
+            }
+        ],
+        "price": [
+            {
+                "economic": [
+                    {
+                        "light": "R$ 599,99",
+                        "pro": "699,99",
+                        "top": "799,99",
+                        "plus": "899,99"
+                    }
+                ],
+                "firstClass": [
+                    {
+                        "light": "799,99",
+                        "pro": "899,99",
+                        "top": "999,99",
+                        "plus": "1299,99"
+                    }
                 ]
             }
         ]
