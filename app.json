@@ -677,6 +677,12 @@
                     "Salvador",
                     "São Paulo"
                 ],
+                "prices": [
+                    "R$ 99,99",
+                    "R$ 119,99",
+                    "R$ 79,99",
+                    "R$ 89,99"
+                ],
                 "infoShipmentDisembarkation": [
                     {
                         "shipment": [
@@ -726,7 +732,8 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "info": "A Bon Voyage! tem parceria direta com a Buser"
             }
         ]
     }
