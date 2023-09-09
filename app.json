@@ -332,6 +332,7 @@
             {
                 "companyName": "LaTAM",
                 "contact": "0800 505 2022",
+                "stopover": false,
                 "goingDates": [
                     "15/09",
                     "16/09",
@@ -517,6 +518,7 @@
             {
                 "companyName": "GOL",
                 "contact": "0800 007 2007",
+                "stopover": false,
                 "goingDates": [
                     "15/09",
                     "16/09",
@@ -678,10 +680,50 @@
                 "infoShipmentDisembarkation": [
                     {
                         "shipment": [
-
+                            {
+                                "beloHorizonte": [
+                                    "Rodoviária Belo Horizonte",
+                                    "Expominas",
+                                    "Av. Barão Homem de Melo"
+                                ],
+                                "rioDeJaneiro": [
+                                    "Estação de Metro São Francisco Xavier",
+                                    "Flamengo - Estacionamento Sol da Praia"
+                                ],
+                                "salvador": [
+                                    "Terminal Rodoviário de Salvador"
+                                ],
+                                "saoPaulo": [
+                                    "Shopping Feira da Madrugada",
+                                    "Barra Funda",
+                                    "Sala VIP Levare - Barra Funda",
+                                    "Terminal Rodoviário Tietê"
+                                ]
+                            }
                         ],
-                        "disembarkation":[
-                            
+                        "disembarkation": [
+                            {
+                                "beloHorizonte": [
+                                    "Expominas",
+                                    "Gonçalves Dias",
+                                    "Sala VIP Luxor",
+                                    "Rodoviária Belo Horizonte"
+                                ],
+                                "rioDeJaneiro": [
+                                    "Estação de Metro São Francisco Xavier",
+                                    "Flamengo - Estacionamento Sol da Praia",
+                                    "Via Parque Shopping"
+                                ],
+                                "salvador": [
+                                    "Terminal Rodoviário de Salvador"
+                                ],
+                                "saoPaulo": [
+                                    "Shopping Feira da Madrugada",
+                                    "Barra Funda",
+                                    "Shopping Eldorado",
+                                    "Terminal Rodoviário Tietê"
+                                ]
+                            }
                         ]
                     }
                 ]
