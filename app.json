@@ -100,7 +100,8 @@
                         "top": "999,99",
                         "plus": "1299,99"
                     }
-                ]
+                ],
+                "info": "Crianças com menos de 8 anos e idosos com mais de 60 anos não pagam passagem"
             }
         ],
         "seats": [
@@ -233,7 +234,8 @@
         "price": [
             {
                 "economic": "R$ 699,99",
-                "firstClass": "R$ 1299,99"
+                "firstClass": "R$ 1299,99",
+                "info": "Crianças com menos de 8 anos e idosos com mais de 60 anos não pagam passagem"
             }
         ],
         "seats": [
@@ -412,7 +414,8 @@
                         "top": "999,99",
                         "plus": "1299,99"
                     }
-                ]
+                ],
+                "info": "Crianças com menos de 8 anos e idosos com mais de 60 anos não pagam passagem"
             }
         ],
         "seats": [
@@ -541,7 +544,8 @@
         "price": [
             {
                 "economic": "R$ 699,99",
-                "firstClass": "R$ 1299,99"
+                "firstClass": "R$ 1299,99",
+                "info": "Crianças com menos de 8 anos e idosos com mais de 60 anos não pagam passagem"
             }
         ],
         "seats": [
