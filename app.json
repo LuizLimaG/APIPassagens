@@ -90,22 +90,36 @@
                         ]
                     }
                 ],
-                "price": [
+                "prices": [
                     {
                         "economic": [
                             {
-                                "light": "R$ 599,99",
-                                "pro": "699,99",
-                                "top": "799,99",
-                                "plus": "899,99"
+                                "packs": [
+                                    {
+                                        "light": "R$ 599,99",
+                                        "pro": "R$ 699,99",
+                                        "top": "R$ 799,99",
+                                        "plus": "R$ 899,99"
+                                    }
+                                ]
+                            },
+                            {
+                                "price": "R$ 499,99"
                             }
                         ],
                         "firstClass": [
                             {
-                                "light": "799,99",
-                                "pro": "899,99",
-                                "top": "999,99",
-                                "plus": "1299,99"
+                                "packs": [
+                                    {
+                                        "light": "R$ 799,99",
+                                        "pro": "R$ 899,99",
+                                        "top": "R$ 999,99",
+                                        "plus": "R$ 1299,99"
+                                    }
+                                ]
+                            },
+                            {
+                                "price": "R$ 699,99"
                             }
                         ],
                         "info": "Crianças com menos de 8 anos e idosos com mais de 60 anos não pagam passagem"
@@ -415,22 +429,36 @@
                         ]
                     }
                 ],
-                "price": [
+                "prices": [
                     {
                         "economic": [
                             {
-                                "light": "R$ 599,99",
-                                "pro": "699,99",
-                                "top": "799,99",
-                                "plus": "899,99"
+                                "packs": [
+                                    {
+                                        "light": "R$ 599,99",
+                                        "pro": "R$ 699,99",
+                                        "top": "R$ 799,99",
+                                        "plus": "R$ 899,99"
+                                    }
+                                ]
+                            },
+                            {
+                                "price": "R$ 499,99"
                             }
                         ],
                         "firstClass": [
                             {
-                                "light": "799,99",
-                                "pro": "899,99",
-                                "top": "999,99",
-                                "plus": "1299,99"
+                                "packs": [
+                                    {
+                                        "light": "R$ 799,99",
+                                        "pro": "R$ 899,99",
+                                        "top": "R$ 999,99",
+                                        "plus": "R$ 1299,99"
+                                    }
+                                ]
+                            },
+                            {
+                                "price": "R$ 699,99"
                             }
                         ],
                         "info": "Crianças com menos de 8 anos e idosos com mais de 60 anos não pagam passagem"
