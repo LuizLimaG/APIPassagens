@@ -2,7 +2,7 @@
     {
         "airplane": [
             {
-                "companyName": "LaTAM",
+                "companyName": " LATAM Airlines Brasil",
                 "contact": "0800 505 2022",
                 "stopover": [
                     {
@@ -340,7 +340,7 @@
                 ]
             },
             {
-                "companyName": "LaTAM",
+                "companyName": " LATAM Airlines Brasil",
                 "contact": "0800 505 2022",
                 "stopover": false,
                 "goingDates": [
