@@ -755,6 +755,11 @@
                 ],
                 "info": "A Bon Voyage! tem parceria direta com a Buser"
             }
-        ]
+        ],
+        "alteracao":  {
+            "apendas": "alteracao no git",
+            "git": "nao sei pq nao atualiza essa merda"
+        }
     }
+    
 ]
